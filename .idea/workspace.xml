@@ -1,0 +1,998 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7642989c-1004-4f0d-826e-a874f8f2d72e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg/bg-adjusted.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg/bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg/cityblur.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg/events-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg/header.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg/pic01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg/pic02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg/pic03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg/pic04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg/pic05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg/pic06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg/red.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg/roundabout-adjusted.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg/roundabout.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg/roundaboutblur.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg/signup-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/card/hackathon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/card/hackathon1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/card/talk.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/card/workshop.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cityStudentUnion.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/citytech-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/departmentcompsci.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/144x144.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/192x192.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/256x256.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/36x36.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/48x48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/72x72.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/96x96.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/apple-touch-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/favicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/mstile-144x144.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo-white-old.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/overlay/overlay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/overlay/overlay1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/overlay/overlay2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/slack.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/slacknew.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tecSocBanner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tecSocLogo-transparent.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tecSocLogo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tecSocLogoOther-transparent.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tecSocLogoOther.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/citytechsoc.github.io.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/all.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/all.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulpfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/map-marker.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/overlay/arrow.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/overlay/overlay3.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/overlay/overlay4.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/html5shiv.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/main.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/respond.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/manifest.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/robots.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/all.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_alert.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_badge.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_breadcrumb.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_button-group.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_card.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_carousel.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_close.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_code.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_custom-forms.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_dropdown.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_forms.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_functions.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_grid.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_images.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_input-group.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_jumbotron.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_list-group.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_media.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_modal.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_nav.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_navbar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_pagination.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_popover.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_print.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_progress.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_reboot.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_tables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_tooltip.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_transitions.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_type.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_utilities.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/bootstrap-grid.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/bootstrap-reboot.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/bootstrap.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_alert.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_background-variant.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_badge.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_border-radius.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_box-shadow.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_breakpoints.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_clearfix.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_float.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_forms.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_gradients.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_grid-framework.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_grid.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_hover.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_image.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_list-group.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_lists.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_nav-divider.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_navbar-align.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_pagination.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_reset-text.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_resize.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_screen-reader.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_size.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_table-row.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_text-emphasis.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_text-hide.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_text-truncate.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_transition.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_visibility.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/utilities/_align.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/utilities/_background.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/utilities/_borders.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/utilities/_clearfix.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/utilities/_display.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/utilities/_embed.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/utilities/_flex.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/utilities/_float.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/utilities/_position.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/utilities/_screenreaders.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/utilities/_sizing.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/utilities/_spacing.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/utilities/_text.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/utilities/_visibility.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/citytech/_fonts.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/citytech/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/citytech/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/citytech/citytech.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/font-awesome/_animated.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/font-awesome/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/font-awesome/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/font-awesome/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/font-awesome/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/font-awesome/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/font-awesome/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/font-awesome/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/font-awesome/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/font-awesome/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/font-awesome/_screen-reader.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/font-awesome/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/font-awesome/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/font-awesome/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-grid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-grid.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-grid.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-grid.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-reboot.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-reboot.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-reboot.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-reboot.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery-easing/jquery.easing.compatibility.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery-easing/jquery.easing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery-easing/jquery.easing.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/popper/popper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/popper/popper.min.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/ie8.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/ie9.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/images/cityblur.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/images/overlay1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/images/overlay2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/images/overlay3.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/images/overlay4.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/images/roundabout.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/images/roundaboutblur.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/ie/PIE.htc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/ie/backgroundsize.min.htc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/ie/html5shiv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/ie/respond.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/jquery.scrolly.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/skel.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/util.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/sass/ie8.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/sass/ie9.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/sass/libs/_functions.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/sass/libs/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/sass/libs/_skel.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/sass/libs/_vars.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/sass/main.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hackcity/assets/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hackcity/assets/css/ie8.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hackcity/assets/css/ie9.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hackcity/assets/css/images/arrow.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hackcity/assets/css/images/overlay.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hackcity/assets/css/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hackcity/assets/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hackcity/assets/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hackcity/assets/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hackcity/assets/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hackcity/assets/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hackcity/assets/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hackcity/assets/js/ie/backgroundsize.min.htc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hackcity/assets/js/ie/html5shiv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hackcity/assets/js/ie/respond.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hackcity/assets/js/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hackcity/assets/js/jquery.scrollex.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hackcity/assets/js/jquery.scrolly.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hackcity/assets/js/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hackcity/assets/js/skel.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hackcity/assets/js/util.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hackcity/assets/sass/ie8.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hackcity/assets/sass/ie9.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hackcity/assets/sass/libs/_functions.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hackcity/assets/sass/libs/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hackcity/assets/sass/libs/_skel.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hackcity/assets/sass/libs/_vars.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hackcity/assets/sass/main.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hackcity/images/bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hackcity/images/pic01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hackcity/images/pic02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hackcity/images/pic03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hackcity/images/pic04.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hackcity/images/pic05.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hackcity/images/red.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hackcity/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/hackathon.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/hackathon1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/header.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logo-white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/pic01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/pic02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/pic03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/pic04.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/pic05.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/pic06.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/slack.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/slacknew.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/talk.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/workshop.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="50" lean-forward="true" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
+              <folding>
+                <element signature="e#13392#13398#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gulpfile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="25" lean-forward="false" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="citytech.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scss/citytech/citytech.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="215" column="17" lean-forward="false" selection-start-line="215" selection-start-column="17" selection-end-line="215" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_fonts.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scss/citytech/_fonts.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="83" lean-forward="false" selection-start-line="0" selection-start-column="83" selection-end-line="0" selection-end-column="83" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_variables.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scss/bootstrap/_variables.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="237">
+              <caret line="225" column="25" lean-forward="false" selection-start-line="225" selection-start-column="25" selection-end-line="225" selection-end-column="25" />
+              <folding>
+                <marker date="1504629391850" expanded="false" signature="12720:12951" ph="data:image/svg+xml" />
+                <marker date="1504629391850" expanded="false" signature="13216:13403" ph="data:image/svg+xml" />
+                <marker date="1504629391850" expanded="false" signature="13604:13781" ph="data:image/svg+xml" />
+                <marker date="1504629391850" expanded="false" signature="14571:14756" ph="data:image/svg+xml" />
+                <marker date="1504629391850" expanded="true" signature="16125:16214" ph="(...)" />
+                <marker date="1504629391850" expanded="true" signature="16142:16172" ph="(...)" />
+                <marker date="1504629391850" expanded="true" signature="16190:16212" ph="(...)" />
+                <marker date="1504629391850" expanded="false" signature="19798:20039" ph="data:image/svg+xml" />
+                <marker date="1504629391850" expanded="false" signature="20422:20664" ph="data:image/svg+xml" />
+                <marker date="1504629391850" expanded="false" signature="29406:29608" ph="data:image/svg+xml" />
+                <marker date="1504629391850" expanded="false" signature="29681:29885" ph="data:image/svg+xml" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="45" lean-forward="false" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>https://logicservers.co.uk/</find>
+      <find>grayscale.css</find>
+      <find>footer</find>
+      <find>font-family: 'Lora', 'Helvetica Neue', Helvetica, Arial, sans-serif;</find>
+      <find>font-family: 'Cabin', 'Helvetica Neue', Helvetica, Arial, sans-serif;</find>
+      <find>font-family: 'Cabin</find>
+      <find>Cabi</find>
+      <find>button</find>
+      <find>darken</find>
+      <find>border-width</find>
+      <find>input-border-width</find>
+      <find>$input-btn-border-width</find>
+      <find>$border-width</find>
+      <find>#mainNav`</find>
+      <find>r</find>
+      <find>Cabin</find>
+      <find>black</find>
+      <find>download</find>
+      <find>about</find>
+      <find>list-group</find>
+      <find>radius</find>
+      <find>font-family: 'Lora', serif;</find>
+      <find>section</find>
+      <find>#mainNav</find>
+      <find>card</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>main.js</replace>
+      <replace>font-family: 'Lora', serif;</replace>
+      <replace>font-family: 'Cabin', sans-serif;</replace>
+      <replace>Roboto</replace>
+      <replace>font-family: 'Lato', sans-serif;</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.txt" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/new/index.html" />
+        <option value="$PROJECT_DIR$/manifest.json" />
+        <option value="$PROJECT_DIR$/css/grayscale.min.css" />
+        <option value="$PROJECT_DIR$/js/grayscale.js" />
+        <option value="$PROJECT_DIR$/js/grayscale.min.js" />
+        <option value="$PROJECT_DIR$/css/custom.css" />
+        <option value="$PROJECT_DIR$/scss/all.scss" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/scss/bootstrap/mixins/_buttons.scss" />
+        <option value="$PROJECT_DIR$/scss/bootstrap/_buttons.scss" />
+        <option value="$PROJECT_DIR$/scss/citytech/_variables.scss" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/scss/bootstrap/_variables.scss" />
+        <option value="$PROJECT_DIR$/scss/citytech/_fonts.scss" />
+        <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/scss/citytech/citytech.scss" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="citytechsoc.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="citytechsoc.github.io" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="citytechsoc.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="citytechsoc.github.io" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scss" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="citytechsoc.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="citytechsoc.github.io" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scss" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="citytech" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="citytechsoc.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="citytechsoc.github.io" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="citytechsoc.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="citytechsoc.github.io" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp\www\citytechsoc.github.io\scss\citytech" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="" />
+      <working_directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GoRunFileConfiguration" factoryName="Go Single File">
+      <module name="" />
+      <working_directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="MixExUnitRunConfigurationType" factoryName="Elixir Mix ExUnit" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="passParentEnvs" value="false" />
+      <option name="programParameters" />
+      <option name="workingDirectory" value="" />
+      <module />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7642989c-1004-4f0d-826e-a874f8f2d72e" name="Default" comment="" />
+      <created>1503248866154</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1503248866154</updated>
+      <workItem from="1503248867330" duration="2125000" />
+      <workItem from="1503317535168" duration="10339000" />
+      <workItem from="1504355306517" duration="603000" />
+      <workItem from="1504621045320" duration="6824000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="19891000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17377399" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1787649" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="70" column="55" lean-forward="false" selection-start-line="70" selection-start-column="55" selection-end-line="70" selection-end-column="55" />
+          <folding>
+            <element signature="e#13392#13398#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="32" lean-forward="false" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/citytech/_fonts.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="83" lean-forward="false" selection-start-line="0" selection-start-column="83" selection-end-line="0" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/bootstrap/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1802">
+          <caret line="106" column="18" lean-forward="false" selection-start-line="106" selection-start-column="12" selection-end-line="106" selection-end-column="18" />
+          <folding>
+            <marker date="1504629391850" expanded="false" signature="12720:12951" ph="data:image/svg+xml" />
+            <marker date="1504629391850" expanded="false" signature="13216:13403" ph="data:image/svg+xml" />
+            <marker date="1504629391850" expanded="false" signature="13604:13781" ph="data:image/svg+xml" />
+            <marker date="1504629391850" expanded="false" signature="14571:14756" ph="data:image/svg+xml" />
+            <marker date="1504629391850" expanded="true" signature="16125:16214" ph="(...)" />
+            <marker date="1504629391850" expanded="true" signature="16142:16172" ph="(...)" />
+            <marker date="1504629391850" expanded="true" signature="16190:16212" ph="(...)" />
+            <marker date="1504629391850" expanded="false" signature="19798:20039" ph="data:image/svg+xml" />
+            <marker date="1504629391850" expanded="false" signature="20422:20664" ph="data:image/svg+xml" />
+            <marker date="1504629391850" expanded="false" signature="29406:29608" ph="data:image/svg+xml" />
+            <marker date="1504629391850" expanded="false" signature="29681:29885" ph="data:image/svg+xml" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/citytech/citytech.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5593">
+          <caret line="329" column="18" lean-forward="false" selection-start-line="329" selection-start-column="18" selection-end-line="329" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="70" column="55" lean-forward="true" selection-start-line="70" selection-start-column="55" selection-end-line="70" selection-end-column="55" />
+          <folding>
+            <element signature="e#13392#13398#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="32" lean-forward="false" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/citytech/_fonts.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="83" lean-forward="false" selection-start-line="0" selection-start-column="83" selection-end-line="0" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/bootstrap/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1802">
+          <caret line="106" column="18" lean-forward="false" selection-start-line="106" selection-start-column="12" selection-end-line="106" selection-end-column="18" />
+          <folding>
+            <marker date="1504629391850" expanded="false" signature="12720:12951" ph="data:image/svg+xml" />
+            <marker date="1504629391850" expanded="false" signature="13216:13403" ph="data:image/svg+xml" />
+            <marker date="1504629391850" expanded="false" signature="13604:13781" ph="data:image/svg+xml" />
+            <marker date="1504629391850" expanded="false" signature="14571:14756" ph="data:image/svg+xml" />
+            <marker date="1504629391850" expanded="true" signature="16125:16214" ph="(...)" />
+            <marker date="1504629391850" expanded="true" signature="16142:16172" ph="(...)" />
+            <marker date="1504629391850" expanded="true" signature="16190:16212" ph="(...)" />
+            <marker date="1504629391850" expanded="false" signature="19798:20039" ph="data:image/svg+xml" />
+            <marker date="1504629391850" expanded="false" signature="20422:20664" ph="data:image/svg+xml" />
+            <marker date="1504629391850" expanded="false" signature="29406:29608" ph="data:image/svg+xml" />
+            <marker date="1504629391850" expanded="false" signature="29681:29885" ph="data:image/svg+xml" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/citytech/citytech.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5593">
+          <caret line="329" column="18" lean-forward="false" selection-start-line="329" selection-start-column="18" selection-end-line="329" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="53" lean-forward="true" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
+          <folding>
+            <element signature="e#13392#13398#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/custom.css" />
+    <entry file="file://$PROJECT_DIR$/new/index.html" />
+    <entry file="file://$PROJECT_DIR$/js/main.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="655" lean-forward="false" selection-start-line="0" selection-start-column="655" selection-end-line="0" selection-end-column="655" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/grayscale.min.css" />
+    <entry file="file://$PROJECT_DIR$/css/grayscale.css" />
+    <entry file="file://$PROJECT_DIR$/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="27" lean-forward="false" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/citytech/_mixins.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/custom.css" />
+    <entry file="file://$PROJECT_DIR$/scss/citytech">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/bootstrap/bootstrap.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/all.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-137245">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/all.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="28" lean-forward="false" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../logicservers-website/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/bootstrap/_buttons.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/bootstrap/mixins/_buttons.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="39" lean-forward="false" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/citytech/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/citytech/_fonts.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="83" lean-forward="false" selection-start-line="0" selection-start-column="83" selection-end-line="0" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/bootstrap/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="225" column="25" lean-forward="false" selection-start-line="225" selection-start-column="25" selection-end-line="225" selection-end-column="25" />
+          <folding>
+            <marker date="1504629391850" expanded="false" signature="12720:12951" ph="data:image/svg+xml" />
+            <marker date="1504629391850" expanded="false" signature="13216:13403" ph="data:image/svg+xml" />
+            <marker date="1504629391850" expanded="false" signature="13604:13781" ph="data:image/svg+xml" />
+            <marker date="1504629391850" expanded="false" signature="14571:14756" ph="data:image/svg+xml" />
+            <marker date="1504629391850" expanded="true" signature="16125:16214" ph="(...)" />
+            <marker date="1504629391850" expanded="true" signature="16142:16172" ph="(...)" />
+            <marker date="1504629391850" expanded="true" signature="16190:16212" ph="(...)" />
+            <marker date="1504629391850" expanded="false" signature="19798:20039" ph="data:image/svg+xml" />
+            <marker date="1504629391850" expanded="false" signature="20422:20664" ph="data:image/svg+xml" />
+            <marker date="1504629391850" expanded="false" signature="29406:29608" ph="data:image/svg+xml" />
+            <marker date="1504629391850" expanded="false" signature="29681:29885" ph="data:image/svg+xml" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="45" lean-forward="false" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/citytech/citytech.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="215" column="17" lean-forward="false" selection-start-line="215" selection-start-column="17" selection-end-line="215" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="50" lean-forward="true" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
+          <folding>
+            <element signature="e#13392#13398#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="25" lean-forward="false" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
