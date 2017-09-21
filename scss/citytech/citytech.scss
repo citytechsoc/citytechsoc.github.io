@@ -350,6 +350,17 @@ footer {
     margin-top: 16px;
   }
 
+  .copyright {
+    @media(max-width: 768px) {
+      text-align: center;
+      margin-bottom: 30px;
+
+      p {
+        margin-top: 0px;
+      }
+    }
+  }
+
   .flogo {
     a {
       &:last-child {
@@ -501,5 +512,12 @@ p.larger {
 
   .location, .date {
     color: #eaeaea;
+  }
+}
+
+
+@media(max-width: 768px) {
+  #mainNav .navbar-nav .nav-item:first-child {
+    margin-left: 15px;
   }
 }

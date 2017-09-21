@@ -8981,6 +8981,12 @@ footer {
     font-size: 14px;
     margin: 0;
     margin-top: 16px; }
+  @media (max-width: 768px) {
+    footer .copyright {
+      text-align: center;
+      margin-bottom: 30px; }
+      footer .copyright p {
+        margin-top: 0px; } }
   footer .flogo a {
     margin-right: 15px;
     margin-left: 15px; }
@@ -9079,3 +9085,7 @@ p.larger {
         text-decoration: none; }
   .list-group .list-group-item .location, .list-group .list-group-item .date {
     color: #eaeaea; }
+
+@media (max-width: 768px) {
+  #mainNav .navbar-nav .nav-item:first-child {
+    margin-left: 15px; } }
