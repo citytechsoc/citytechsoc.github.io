@@ -1,1 +1,4 @@
-# CityTech site
+# City Tech Society main site
+2016 - Yosuf Ali & Abdulhakim Ajetunmobi
+
+2017 - Aidan Taylor & Abdulhakim Ajetunmobi 
