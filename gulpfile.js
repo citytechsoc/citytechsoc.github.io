@@ -99,7 +99,7 @@ gulp.task('copy', function () {
 
     gulp.src([
         'node_modules/font-awesome/fonts/**/*'
-    ]).pipe(gulp.dest('css/fonts'));
+    ]).pipe(gulp.dest('fonts'));
 
     //gulp.src([
     //    'node_modules/font-awesome/**',
