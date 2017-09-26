@@ -1,0 +1,6 @@
+<Files ~ "\.txt$">
+    Order allow,deny
+    Deny from all
+</Files>
+
+Header set Access-Control-Allow-Origin "*"

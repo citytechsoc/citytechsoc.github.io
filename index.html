@@ -120,10 +120,11 @@
                         <div class="col-sm-6 location text-right"><i class="fa fa-map-marker" aria-hidden="true"></i> Nandos Islington</div>
                     </div>
                     <br/>
-                    <p class="list-group-item-text text-justify">Everyone is welcome to join us for our first social outing of the year. We are heading for a traditional meet and eat in Nando's Islington! <a href="https://www.facebook.com/events/293775347767361" target="_blank">Read More</a></p>
+                    <p class="list-group-item-text text-justify">Everyone is welcome to join us for our first social outing of the year. We are heading for a traditional meet and eat in Nando's Islington! <a
+                            href="https://www.facebook.com/events/293775347767361" target="_blank">Read More</a></p>
                 </span>
                 <br/>
-                <span class="list-group-item active">
+                <span class="list-group-item soon">
                     <h4 class="list-group-item-heading"><a href="https://www.facebook.com/events/1879518192375227/" target="_blank">Tech Soc goes to Monzo Bank</a></h4>
                     <div class="row info">
                         <div class="col-sm-6 date"><i class="fa fa-calendar" aria-hidden="true"></i> 5th October</div>
@@ -137,6 +138,8 @@
                 <span class="list-group-item soon">
                     <h4 class="list-group-item-heading">Soon to be announced!</h4>
                 </span>
+
+                <a href="https://www.facebook.com/pg/citytechsoc/events" class="text-center below" target="_blank">View Past Events</a>
             </div>
 
         </div>
@@ -170,30 +173,51 @@
                 <br/>
                 <p class="larger card-text">
                     We also send out a weekly email in case you miss anything!
-                    <br /><span class="highlight">Join our newsletter by signing up below!</span>
+                    <br/><span class="highlight">Join our newsletter by signing up below!</span>
                 </p>
 
+
+                <!--form section-->
                 <div class="row form">
                     <div class="col-sm-8 mx-auto">
 
-                        <div class="card">
+                        <h2 style="margin-bottom:100px;">Be part of City Tech!</h2>
+
+                        <!--formsuccess section-->
+                        <div class="list-group text-left hidden" id="signupsuccess">
+                                <span class="list-group-item soon">
+                                    <h4 class="list-group-item-heading"><a href="#">Thanks for signing up!</a></h4>
+                                    <br/>
+                                    <p>Make sure you also join our Facebook group for faster updates from us!</p>
+                                    <p><a href="https://www.facebook.com/groups/citytechsoc" class="btn btn-md"
+                                          target="_blank">Visit Our Facebook Group</a></p>
+                                </span>
+                        </div>
+                        <!--formsuccess section-->
+
+                        <br/><br/>
+
+                        <div class="card" id="signupcont">
                             <div class="card-body text-left">
-                                <form class="form-horizontal" action="https://tech.us13.list-manage.com/subscribe/post?u=19caad93518708ccfc4e938ca&amp;id=58a91fabc3" method="post"
-                                      id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
+
+                                <form class="form-horizontal" action="http://mouseymars.com/citytech/freshers.php"
+                                      method="post"
+                                      id="signupform" name="signupform" class="validate" target="_blank" novalidate="">
                                     <fieldset>
+                                        <span id="signupform-msg"></span>
                                         <br/>
                                         <div class="row">
-                                            <div class="col-md-6 noright">
+                                            <div class="col-md-6">
                                                 <div class="form-group">
-                                                    <div class="col-sm-12">
-                                                        <input type="text" class="form-control" id="mce-FNAME" name="FNAME" placeholder="First Name">
+                                                    <div class="col-sm-12 noright">
+                                                        <input type="text" class="form-control" id="firstname" name="firstname" required placeholder="First Name">
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="col-md-6 noleft">
+                                            <div class="col-md-6">
                                                 <div class="form-group">
-                                                    <div class="col-sm-12">
-                                                        <input type="text" class="form-control" id="mce-LNAME" name="LNAME" placeholder="Last Name">
+                                                    <div class="col-sm-12 noleft">
+                                                        <input type="text" class="form-control" id="lastname" name="lastname" required placeholder="Last Name">
                                                     </div>
                                                 </div>
                                             </div>
@@ -201,21 +225,16 @@
 
                                         <div class="form-group">
                                             <div class="col-lg-12">
-                                                <input type="email" class="form-control" id="mce-EMAIL" name="EMAIL" placeholder="Email">
+                                                <input type="email" class="form-control" id="email" name="email" required placeholder="email">
                                             </div>
                                         </div>
 
                                         <br/>
-                                        <div class="form-check">
-                                            <label class="form-check-label" for="mce-group[2409]-2409-0">
-                                                <div class="row">
-                                                    <div class="col-sm-1">
-                                                        <input type="checkbox" value="1" name="group[2409][1]" id="mce-group[2409]-2409-0">
-                                                    </div>
-                                                    <div class="col-sm-10">
-                                                        I agree to let City Tech Society contact me using the information provided.
-                                                    </div>
-                                                </div>
+                                        <div class="form-check" style="margin-left:17px;">
+                                            <label class="custom-control custom-checkbox" for="check">
+                                                <input type="checkbox" class="custom-control-input" name="check" required id="check">
+                                                <span class="custom-control-indicator"></span>
+                                                <span class="custom-control-description" style="color: #000;">I agree to let City Tech Society contact me using the information provided.</span>
                                             </label>
                                         </div>
 
@@ -233,6 +252,8 @@
 
                     </div>
                 </div>
+                <!--form section-->
+
 
             </div>
         </div>
