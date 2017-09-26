@@ -6,6 +6,9 @@ if (!isset($included) && !(isset($_SERVER['HTTP_REFERER']) && (strpos($_SERVER['
 header('Cache-Control: no-cache, must-revalidate');
 header('Content-type: application/json');
 
+$save = "freshers.txt";
+$freshers = file_get_contents($save);
+
 $reply = array('status' => 'error', 'error' => false);
 $firstname = ""; $lastname = ""; $email = ""; $check = "";
 
@@ -36,13 +39,14 @@ if (isset($_REQUEST['check']) && !empty($_REQUEST['check'])) {
 }
 
 if ($reply['error'] === false) {
-    $save = "freshers.txt";
+    if (strpos($freshers, "{$email}") === false) {
+        $freshers .= "{$firstname},{$lastname},{$email},{$check}\n";
+        file_put_contents($save, $freshers);
 
-    $freshers = file_get_contents($save);
-    $freshers .= "{$firstname},{$lastname},{$email},{$check}\n";
-    file_put_contents($save, $freshers);
-
-    $reply['status'] = "success";
+        $reply['status'] = "success";
+    } else {
+        $reply['error']['other']['fail'] = "You've already signed up with that email!";
+    }
 }
 
 echo json_encode($reply);

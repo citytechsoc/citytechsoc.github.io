@@ -80,9 +80,19 @@
                     $("#signupsuccess").hide(500);
                     $("#signupform-msg").html("<div class=\"alert alert-danger\" role=\"alert\">Please correct the errors!</div>");
                     $.each(result.error, function (key, value) {
-                        var elm = $("#" + key);
-                            elm.removeClass("is-valid").addClass("is-invalid");
-                            elm.parent().append("<div class=\"invalid-feedback\">"+value+"</div>");
+                        if (key === "other") {
+                            $.each(value, function (key2, value2) {
+                                if (key2 === "fail") {
+                                    $("#signupform-msg").html("<div class=\"alert alert-danger\" role=\"alert\">"+value2+"</div>");
+                                } else {
+                                    $("#signupform-msg").append("<div class=\"alert alert-danger\" role=\"alert\">"+value2+"</div>");
+                                }
+                            });
+                        } else {
+                            var elm = $("#" + key);
+                                elm.removeClass("is-valid").addClass("is-invalid");
+                                elm.parent().append("<div class=\"invalid-feedback\">" + value + "</div>");
+                        }
                     });
 
                 }
