@@ -1,6 +1,6 @@
 /*!
  * Start Bootstrap - CityTech Society v0.0.0 (https://cityuni.tech)
- * Copyright 2017 CityTech Society
+ * Copyright 2018 CityTech Society
  */
 @charset "UTF-8";
 /*!
@@ -1381,6 +1381,9 @@ pre {
     color: #868e96;
     opacity: 1; }
   .form-control:-ms-input-placeholder {
+    color: #868e96;
+    opacity: 1; }
+  .form-control::-ms-input-placeholder {
     color: #868e96;
     opacity: 1; }
   .form-control::placeholder {

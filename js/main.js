@@ -41,26 +41,41 @@
 
     //Signup Form
 
+    window.addEventListener("load", function () {
+        var form = document.getElementById("signupform");
+        form.addEventListener("submit", function (event) {
+            if (form.checkValidity() === false) {
+                event.preventDefault();
+                event.stopPropagation();
+            }
+
+            form.classList.add("was-validated");
+        }, false);
+    }, false);
+
     $("#signupform").submit(function (e) {
         e.preventDefault();
         e.stopPropagation();
 
         $.ajax({
             url: $(this).attr('action'),
-            type: $(this).attr('method'),
             data: $(this).serialize(),
-            dataType: "jsonp",
-            error: function (jqXHR, textStatus, errorThrown) {
+            dataType: "json",
+            error: function (xhr, status, error) {
+                //var err = JSON.parse(xhr.responseText);
+                console.log(xhr.responseText + ' ' + status);
                 $("#signupform-msg").html("<div class=\"alert alert-danger\" role=\"alert\">An error has occurred!</div>");
             },
-            success: function (result) {
+            success: function (data) {
                 $("#signupform-msg").html("");
                 $(".form-control, .custom-control-input").each(function () {
                     $(this).removeClass("is-invalid").addClass("is-valid").blur();
                     $(this).parent().find(".invalid-feedback").remove();
                 });
 
-                if (result.status === 'success') {
+                console.log(data);
+
+                if (data.result === 'success') {
                     $(".form-control, .custom-control-input").each(function () {
                         $(this).removeClass("is-valid");
                     });
@@ -76,24 +91,15 @@
                     setTimeout(function () {
                         $("#signupsuccess").hide(500);
                     }, 30000);
+                } else if (data.result === 'error') {
+                    $("#signupsuccess").hide(500);
+                    $("#signupform-msg").html("<div class=\"alert alert-danger\" role=\"alert\">"+data.msg+"</div>");
                 } else {
                     $("#signupsuccess").hide(500);
-                    $("#signupform-msg").html("<div class=\"alert alert-danger\" role=\"alert\">Please ensure your email/name are correct, and that you have agreed to receive communications!</div>");
+                    $("#signupform-msg").html("<div class=\"alert alert-danger\" role=\"alert\">An unknown error occured.</div>");
 
                 }
             }
         });
     });
-
-    window.addEventListener("load", function () {
-        var form = document.getElementById("signupform");
-        form.addEventListener("submit", function (event) {
-            if (form.checkValidity() === false) {
-                event.preventDefault();
-                event.stopPropagation();
-             }
-
-             form.classList.add("was-validated");
-        }, false);
-     }, false);
 })(jQuery); // End of use strict
