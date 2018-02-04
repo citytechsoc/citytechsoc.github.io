@@ -41,27 +41,27 @@
 
     //Signup Form
 
-    $("#signupform").submit(function(e) {
+    $("#signupform").submit(function (e) {
         e.preventDefault();
         e.stopPropagation();
 
         $.ajax({
             url: $(this).attr('action'),
-            type: "POST",
+            type: $(this).attr('method'),
             data: $(this).serialize(),
-            dataType: "json",
+            dataType: "jsonp",
             error: function (jqXHR, textStatus, errorThrown) {
-                $("#signupform-msg").html("<div class=\"alert alert-danger\" role=\"alert\">An error has occured!</div>");
+                $("#signupform-msg").html("<div class=\"alert alert-danger\" role=\"alert\">An error has occurred!</div>");
             },
             success: function (result) {
                 $("#signupform-msg").html("");
-                $(".form-control, .custom-control-input").each(function() {
+                $(".form-control, .custom-control-input").each(function () {
                     $(this).removeClass("is-invalid").addClass("is-valid").blur();
                     $(this).parent().find(".invalid-feedback").remove();
                 });
 
                 if (result.status === 'success') {
-                    $(".form-control, .custom-control-input").each(function() {
+                    $(".form-control, .custom-control-input").each(function () {
                         $(this).removeClass("is-valid");
                     });
 
@@ -76,38 +76,24 @@
                     setTimeout(function () {
                         $("#signupsuccess").hide(500);
                     }, 30000);
-                } else if (result.status === 'error') {
+                } else {
                     $("#signupsuccess").hide(500);
-                    $("#signupform-msg").html("<div class=\"alert alert-danger\" role=\"alert\">Please correct the errors!</div>");
-                    $.each(result.error, function (key, value) {
-                        if (key === "other") {
-                            $.each(value, function (key2, value2) {
-                                if (key2 === "fail") {
-                                    $("#signupform-msg").html("<div class=\"alert alert-danger\" role=\"alert\">"+value2+"</div>");
-                                } else {
-                                    $("#signupform-msg").append("<div class=\"alert alert-danger\" role=\"alert\">"+value2+"</div>");
-                                }
-                            });
-                        } else {
-                            var elm = $("#" + key);
-                                elm.removeClass("is-valid").addClass("is-invalid");
-                                elm.parent().append("<div class=\"invalid-feedback\">" + value + "</div>");
-                        }
-                    });
+                    $("#signupform-msg").html("<div class=\"alert alert-danger\" role=\"alert\">Please ensure your email/name are correct, and that you have agreed to receive communications!</div>");
 
                 }
             }
         });
     });
 
-    /*window.addEventListener("load", function () {
+    window.addEventListener("load", function () {
         var form = document.getElementById("signupform");
         form.addEventListener("submit", function (event) {
             if (form.checkValidity() === false) {
                 event.preventDefault();
                 event.stopPropagation();
-            }
-            form.classList.add("was-validated");
+             }
+
+             form.classList.add("was-validated");
         }, false);
-    }, false);*/
+     }, false);
 })(jQuery); // End of use strict
